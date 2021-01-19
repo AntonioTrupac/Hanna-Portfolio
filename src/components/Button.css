@@ -1,5 +1,5 @@
 :root {
-    --primary: #77c7ca;
+    --primary: #8cd3d6;
 }
 
 .btn {
@@ -13,7 +13,7 @@
 .btn:hover {
     padding: 8px 20px;
     transition: all 0.3s ease-out;
-    background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+    background: linear-gradient(90deg, #899ec3 0%, #c29ed7 100%);
     color: #f8f8f8;
     transition: 250ms;
 }
